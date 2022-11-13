@@ -1,0 +1,11 @@
+F:\ITI Course\Final Project\Final Proj\Exam Application\ExaminationSystem.exe
+F:\ITI Course\Final Project\Final Proj\Exam Application\ExaminationSystem.dll
+F:\ITI Course\Final Project\Final Proj\Exam Application\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\Final Proj\Exam Application\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\Final Proj\Exam Application\ExaminationSystem.pdb
+F:\ITI Course\Final Project\Final Proj\Exam Application\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\Final Proj\Exam Application\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\Final Proj\Exam Application\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\Final Proj\Exam Application\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\Final Proj\Exam Application\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\Final Proj\Exam Application\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

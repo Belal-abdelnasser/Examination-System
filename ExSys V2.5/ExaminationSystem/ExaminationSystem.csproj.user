@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\Final\ExSys V2.5\ExaminationSystem\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="View\ChooseQuestionType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AddTFQuestionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\AddQuestionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\StdCrsGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\StdQuestionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\InstViewAndGenExamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\StdCrsExamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

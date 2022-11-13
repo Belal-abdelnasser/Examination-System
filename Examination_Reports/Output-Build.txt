@@ -1,0 +1,23 @@
+﻿Build started...
+------ Build started: Project: Examination_Report2, Configuration: Debug ------
+Skipping 'Examination_DS.rds'. Item is up to date.
+Skipping 'courses topics.rdl'. Item is up to date.
+Skipping 'Exam_Questions.rdl'. Item is up to date.
+Skipping 'Instractor_Corses.rdl'. Item is up to date.
+Skipping 'ST_grade.rdl'. Item is up to date.
+Skipping 'Exam.rdl'. Item is up to date.
+Building the report, Student_Dept.rdl, for SQL Server 2016 Reporting Services.
+Build complete -- 0 errors, 0 warnings
+------ Deploy started: Project: Examination_Report2, Configuration: Debug ------
+Deploying to http://desktop-tfatl9m:8080/ReportsBI
+Deploying data source '/Data Sources/Examination_DS'.
+Warning : Cannot deploy data source Examination_DS to the server because it already exists and OverwriteDataSources is not specified.
+Deploying report '/Examination_Report2/courses topics'.
+Deploying report '/Examination_Report2/Exam_Questions'.
+Deploying report '/Examination_Report2/Instractor_Corses'.
+Deploying report '/Examination_Report2/ST_grade'.
+Deploying report '/Examination_Report2/Student_Dept'.
+Deploying report '/Examination_Report2/Exam'.
+Deploy complete -- 0 errors, 1 warnings
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
+========== Deploy: 1 succeeded, 0 failed, 0 skipped ==========

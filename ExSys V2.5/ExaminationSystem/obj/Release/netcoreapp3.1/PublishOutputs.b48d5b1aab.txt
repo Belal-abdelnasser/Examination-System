@@ -1,0 +1,11 @@
+E:\Final\Final Exe\ExaminationSystem.exe
+E:\Final\Final Exe\ExaminationSystem.dll
+E:\Final\Final Exe\ExaminationSystem.deps.json
+E:\Final\Final Exe\ExaminationSystem.runtimeconfig.json
+E:\Final\Final Exe\ExaminationSystem.pdb
+E:\Final\Final Exe\System.Data.SqlClient.dll
+E:\Final\Final Exe\runtimes\win-arm64\native\sni.dll
+E:\Final\Final Exe\runtimes\win-x64\native\sni.dll
+E:\Final\Final Exe\runtimes\win-x86\native\sni.dll
+E:\Final\Final Exe\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final\Final Exe\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

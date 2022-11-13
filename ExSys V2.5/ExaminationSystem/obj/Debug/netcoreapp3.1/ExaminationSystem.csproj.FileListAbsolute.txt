@@ -1,0 +1,609 @@
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Test Final Project\ExaminationSystem\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\(ITI.BI)\BI-Menofia\Graduation Project\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+C:\Users\DeKaiTo\Downloads\NewVerison\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.6\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.7\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V0.99\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\APP Tests\ExSys V1.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final Project\ExSys V1.1\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\project\ExSys V1.1239213312\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\project\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.xml
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+F:\ITI Course\Final Project\Final Proj\ExSys V1.4\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+E:\Final\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+D:\ITI Final Project\ExSys V1.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddQuestionsForm.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddQuestionsForm.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddTFQuestionForm.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+D:\ITI Final Project\ExSys V1.8\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.ChooseQuestionType.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddQuestionsForm.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddTFQuestionForm.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.ChooseQuestionType.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\New folder\ExSys V1.9\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddQuestionsForm.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddTFQuestionForm.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.ChooseQuestionType.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddQuestionsForm.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddTFQuestionForm.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.ChooseQuestionType.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+D:\ITI Final Project\New folder\ExSys_V2.1\ExSys V2.0\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.exe
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.deps.json
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.json
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.runtimeconfig.dev.json
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final\ExSys V2.5\ExaminationSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.AssemblyReference.cache
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.Properties.Resources.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddQuestionsForm.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AddTFQuestionForm.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.ChooseQuestionType.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.InstViewAndGenExamForm.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.LoginForm.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdCrsExamForm.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.View.StdCrsGrade.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.StdQuestionsForm.resources
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.GenerateResource.cache
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfoInputs.cache
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.AssemblyInfo.cs
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CoreCompileInputs.cache
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.csproj.CopyComplete
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.dll
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.pdb
+E:\Final\ExSys V2.5\ExaminationSystem\obj\Debug\netcoreapp3.1\ExaminationSystem.genruntimeconfig.cache

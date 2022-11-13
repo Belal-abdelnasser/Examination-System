@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Examination_Report2", "Examination_Report2\Examination_Report2.rptproj", "{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.Debug|Default.ActiveCfg = Debug
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.Debug|Default.Build.0 = Debug
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.Debug|Default.Deploy.0 = Debug
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.DebugLocal|Default.Build.0 = DebugLocal
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.Release|Default.ActiveCfg = Release
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.Release|Default.Build.0 = Release
+		{DB1981D5-B2DC-49BB-B9B1-A3D6A703944B}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B57F8C6-9154-4F7E-B498-7C673D27DB5F}
+	EndGlobalSection
+EndGlobal

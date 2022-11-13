@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExaminationDS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=ExaminationsDB</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>204e2362-8ea6-45dd-ab21-a05fdc6e75f7</DataSourceID>
+</RptDataSource>
